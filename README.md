@@ -1,5 +1,4 @@
-A MEV Bot(flashbots) written in FunC targeting TON blockchain
-Smart Contract Structure: 
+This is the template of a MEV Bot smart contract aka flashbot written in FunC to deploy on TON blockchain: 
 
 // Define the structure of the MEV bot contract
 struct MEVBot {
