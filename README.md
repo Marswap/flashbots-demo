@@ -26,4 +26,4 @@ This MEV Bot executes following tasks:
 This MEV bot interacts with the TON blockchain to monitor the mempool, submit transactions, and perform other necessary actions. This involves using the TON SDK or similar tools to communicate with the blockchain.
 
 
-P.S. This MEV bot smart contract was initially deployed on Solana blockchain. 
+P.S. This MEV bot smart contract was initially deployed on Goreli testnet of Ethereum blockchain. 
